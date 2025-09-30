@@ -1,0 +1,3 @@
+# Documentación
+
+::: cuadrature

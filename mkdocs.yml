@@ -18,7 +18,7 @@ plugins:
           options:
             show_root_heading: true
             show_source: false
-            docstring_style: google
+            docstring_style: numpy
 
 markdown_extensions:
 - pymdownx.arithmatex:
